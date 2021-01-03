@@ -23,7 +23,7 @@ I can convert file to video or video to file with custom thumbnail support 💯.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT GROUP:** [AnimeBotSupportGroup](https://t.me/AnimeBotSupportGroup)
 """
 
 
@@ -34,13 +34,13 @@ I can convert file to video or video to file with custom thumbnail support 💯.
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS) Thank Him For This Open Source Project!
 
 **👨🏻‍💻 Maintained By:** [༄➳°᭄ᶦᶰᵈ𝕯ͥสͣ𝖓ͫ𝖓ℽ™࿐⁰⁰⁴](https://t.me/Danny004)
 
 **👥 Support Group:** [Anime Bot](https://t.me/AnimeBotSupportGroup)
 
-****As This is a open source Source Code is available**[Click For Source Code](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+****As This is a open source Source Code is available:** [Click For Source Code](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
 
 """
 
@@ -93,10 +93,10 @@ Join @AnimeBotSupportGroup
 
 
 
-      DOWNLOAD_START = "Trying to Download 📥"
+      DOWNLOAD_START = "<b>Downloading.. 📥</b>"
       DOWNLOAD_COMPLETE = "✅ Media Downloaded successfully\nPreparing for upload"
-      UPLOAD_START = "Trying to Upload 📤"
-      UPLOAD_COMPLETE = "THANKS FOR USING ME"
+      UPLOAD_START = "<b>Uploading.. 📤</b>"
+      UPLOAD_COMPLETE = "Share And Support @AnimeBotSupportGroup"
       SAVED_CUSTOM_THUMB_NAIL = "✅ Saved Thumbnail Successfully. This will be deleted in 24hrs"
       BANNED_TEXT = "YOU ARE BANNED. SO YOUR ARE NOT ABLE TO USE ME 🐒"
       REPLY_TEXT = "👩‍✈️ Reply to the media which you need to convert"
