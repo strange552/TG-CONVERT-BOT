@@ -5,9 +5,9 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) by {1}
+This Bot is Edited And Created By {1}
 
-I can convert file to video or video to file with custom thumbnail support.
+I can convert file to video or video to file with custom thumbnail support 💯.
 """
 
 
@@ -23,7 +23,7 @@ I can convert file to video or video to file with custom thumbnail support.
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT GROUP:** [](https://telegram.dog/Ns_Bot_supporters)
 """
 
 
@@ -36,11 +36,11 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**👨🏻‍💻 Maintained By:** [༄➳°᭄ᶦᶰᵈ𝕯ͥสͣ𝖓ͫ𝖓ℽ™࿐⁰⁰⁴](https://t.me/Danny004)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Support Group:** [Anime Bot](https://t.me/AnimeBotSupportGroup)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+****As This is a open source Source Code is available**[Click For Source Code](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
 
 """
 
@@ -82,6 +82,7 @@ Done ✅: {1}
 Total 🌀: {2}
 Speed 🚀: {3}/s
 ETA 🕰: {4}
+Join @AnimeBotSupportGroup
 """
        
       DOWNLOAD_PROGRESS = "▪️"
